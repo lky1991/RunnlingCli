@@ -5,6 +5,7 @@ import org.apache.commons.cli.*;
 import java.io.IOException;
 
 /**
+ * 命令行参数工具类
  * Created by $wally on 2016/9/16.
  */
 public class RunningCli {
